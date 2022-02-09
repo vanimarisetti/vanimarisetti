@@ -1,0 +1,4 @@
+a=int(input("enter a value in kilometers:"))
+Cm=a*1000*100
+Print("no of centimetres :",Cm)
+
